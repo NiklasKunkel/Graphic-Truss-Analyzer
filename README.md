@@ -14,12 +14,12 @@ which vertex connects to which other vertices.
 If given correct input parameters the program will calculate the Torsion forces on each member and then graphically output the Truss along with a graphical representation of the Torsional forces.
 
 The colors represent how close a member is to failure.
-
-Blue = member is very safe
-Yellow = member is okay
-Orange = getting closer to failure
-Red = very close to failure
-BOLD = member has failed
+   
+Blue = member is very safe   
+Yellow = member is okay   
+Orange = getting closer to failure   
+Red = very close to failure   
+BOLD = member has failed   
 
 
 Sample Output
