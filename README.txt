@@ -22,4 +22,5 @@ Red = very close to failure
 BOLD = member has failed
 
 
-For sample output open gfx_output.jpg
+Sample Output
+![Sample Output](https://github.com/NiklasKunkel/Graphic-Truss-Analyzer/blob/master/gfx_output.jpg)
